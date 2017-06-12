@@ -1,6 +1,7 @@
 # Dance-Dance-Revolution
 Design Dance Dance Revolution game
 
+*NOTE: the code does not work completely how it should*
 
 References: <br />
 Used Nokia 5110 LCD Screen library from https://github.com/andygock/glcd <br />
